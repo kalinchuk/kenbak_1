@@ -8,9 +8,9 @@ IMAGE TODO
 
 You will find the parts list, parts layout, literature (i.e. Theory of Operation), etc. in the tree of this repo.
 
-The parts list and placement can be found [here](Literature/KENBAK-Parts Placement Guide-Release1.pdf).
+The parts list and placement can be found [here](Literature/KENBAK-Parts%20Placement%20Guide-Release1.pdf).
 
-Other construction details can be found [here](Literature/KENBAK-Stockly Electronics Construction Manual-Release1.pdf).
+Other construction details can be found [here](Literature/KENBAK-Stockly%20Electronics%20Construction%20Manual-Release1.pdf).
 
 ## Main PCB
 

@@ -1,6 +1,6 @@
 # Kenbak-1 Reproduction
 
-This repository contains schematics, PCBs, instructions and parts lists for the Kenbak-1 reproduction build which can be found at [https://www.youtube.com/watch?v=ffsnZ321Xv4](https://www.youtube.com/watch?v=ffsnZ321Xv4). Be sure to check out [www.kenbak.com](https://www.kenbak.com) for much more details on the Kenbak-1 and its operation.
+This repository contains schematics, PCBs, instructions and parts lists for the Kenbak-1 reproduction build which can be found at [https://www.youtube.com/watch?v=ffsnZ321Xv4](https://www.youtube.com/watch?v=ffsnZ321Xv4). Be sure to check out [www.kenbak.com](https://www.kenbak.com) for much more details on the Kenbak-1 and its operation. [www.kenbakkit.com](http://www.kenbakkit.com/) also has a lot of resources pertaining to building the reproduction Kenbak-1.
 
 IMAGE TODO
 

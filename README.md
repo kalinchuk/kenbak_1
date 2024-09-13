@@ -23,7 +23,7 @@ The original Kenbak-1 PCBs are pretty much non-existent. Therefore, if one has t
 
 ## Power Supply
 
-TODO
+The power supply used in the videos and included with the kit: https://www.digikey.com/en/products/detail/integrated-power-designs/1010417CHCO/12757784
 
 ## Front Panel
 

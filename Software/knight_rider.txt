@@ -1,0 +1,23 @@
+Addr    Value
+----    ---------
+                        ; Display Cylon lights on the Kenbak-1 front panel
+003     004
+004     023 001         START   LOAD A, #1      ; A = 00000001b
+006     034 200         LEFT    STORE A, 0200   ; display A on LEDs
+010     367 032                 JMD WAIT        ; pause
+012     211                     LEFT SHIFT A 1  ; A << 1
+013     043 006                 JPD A!=0, LEFT  ; if A != 0 jump to label LEFT
+;
+015     023 200                 LOAD A, #0200   ; A = 10000000b
+017     034 200         RIGHT   STORE A, 0200   ; display B on LEDs
+021     367 032                 JMD WAIT        ; pause
+023     011                     RIGHT SHIFT A 1 ; A >> 1
+024     323 177                 AND A, #0177    ; mask off sign bit
+026     043 017                 JPD A!=0, RIGHT ; if A != 0 jump to label RIGHT
+030     347 004                 JPD START       ; repeat forever
+;
+032     000             WAIT    .equ 0          ; return address will be stored here
+033     123 020                 LOAD B, #020    ; delay for a count of 020
+035     113 001         WAIT1   SUB B, #1       ; decrement B
+037     143 035                 JPD B!=0, WAIT1 ; if B != 0 jump to label WAIT1
+041     357 032                 JPI WAIT        ; return

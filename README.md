@@ -18,6 +18,9 @@ The original Kenbak-1 PCBs are pretty much non-existent. Therefore, if one has t
 
 <img width="653" alt="Kenbak-1 PCB" src="https://github.com/user-attachments/assets/04e4418b-7452-4ed3-ab4b-d06c0cd37b74">
 
+<img width="653" alt="Kenbak-1 Assembled PCB" src="https://github.com/user-attachments/assets/4d3e0d76-8031-41da-9a8a-1d12abb8cf1c">
+
+
 ## Power Supply
 
 TODO

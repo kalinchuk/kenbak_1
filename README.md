@@ -2,7 +2,7 @@
 
 This repository contains schematics, PCBs, instructions and parts lists for the Kenbak-1 reproduction build which can be found at [https://www.youtube.com/watch?v=ffsnZ321Xv4](https://www.youtube.com/watch?v=ffsnZ321Xv4). Be sure to check out [www.kenbak.com](https://www.kenbak.com) for much more details on the Kenbak-1 and its operation. [www.kenbakkit.com](http://www.kenbakkit.com/) also has a lot of resources pertaining to building the reproduction Kenbak-1.
 
-IMAGE TODO
+<img width="653" alt="Kenbak-1 Computer" src="https://github.com/user-attachments/assets/60f4155c-7ebb-4ea5-bf9e-cb024af420e6">
 
 ## Resources
 
@@ -25,10 +25,10 @@ The original Kenbak-1 PCBs are pretty much non-existent. Therefore, if one has t
 
 The power supply used in the videos and included with the kit: https://www.digikey.com/en/products/detail/integrated-power-designs/1010417CHCO/12757784
 
-## Front Panel
-
-TODO
-
 ## Case
 
-TODO
+The reproduction Kenbak-1 case was designed by Chris Davis and was based on the original case by Bud Industries. You can find more details on the construction of it at [https://www.pcbway.com/project/shareproject/KENBAK_1_Case_652ebb23.html](https://www.pcbway.com/project/shareproject/KENBAK_1_Case_652ebb23.html).
+
+<img width="653" alt="Kenbak-1 Case" src="https://github.com/user-attachments/assets/c7737294-99e8-4074-8fb7-970c4cd56314">
+
+<img width="653" alt="Kenbak-1 Case" src="https://github.com/user-attachments/assets/132521d4-e942-4dfd-8bdf-42b8942b4a7f">
